@@ -13,3 +13,4 @@ const Navbar = ({setCurrentPage}) => {
 };
 
 export default Navbar;
+

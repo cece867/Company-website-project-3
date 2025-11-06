@@ -1,8 +1,7 @@
 import { useState } from 'react'
 
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-// import './App.css'
+
+import './App.css'
 import Navbar from './components/Navbar/Navbar.jsx'
 
 const App = () => {
@@ -56,7 +55,7 @@ const App = () => {
         <p> Welcome To Mickey Productions </p>
 
       </section>
-      
+
       {currentPage === "companyHistory" && (
       <section title = "history">
       <p> Company History </p>
