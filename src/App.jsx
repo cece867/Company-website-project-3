@@ -30,7 +30,7 @@ const App = () => {
   const companyHistoryText = `Founded in 1901 by Minnie Mouse, ${companyName} began as a full service looney company who specializes in how to descretely goof off while working. Over the decades we have had several satisfied clientele. We are a global leader in goofing off.`
   
 
-  const pastWork = `working for Lucille Ball and many other famouse celebrities teaching them to master our goofing off techniques and how not to get caught. we work with some of the biggest companies and names. We are looking for more in the future. We have a new program, how to goof off at chuch and not get caught. The particular course is geared toward elementary school age children`
+  const pastWork = `working for Lucille Ball and many other famous celebrities teaching them to master our goofing off techniques and how not to get caught. we work with some of the biggest companies and names. We are looking for more in the future. We have a new program, how to goof off at chuch and not get caught. The particular course is geared toward elementary school age children.`
 
   
   
@@ -52,7 +52,7 @@ const App = () => {
         {companyName}
       </h1>
 
-        <p> Welcome To Mickey Productions </p>
+        <p> Welcome To Our Website Where we Serve Clients Globally </p>
 
       </section>
 
